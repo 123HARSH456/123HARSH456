@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harsh Ratnaparkhe
-**A passionate Developer || Tech enjoyer**
+**Passionate Developer || Tech enjoyer**
 
 Connect With Me For Collaboration/Project.
 
