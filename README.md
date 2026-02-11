@@ -3,9 +3,6 @@
 
 Connect With Me For Collaboration/Project.
 
-- 🔭 **I’m currently working on:** OPENCV and Computer Vision
-- 🌱 **I’m currently learning:** OPENCV
-- ⚡ **Fun fact:** Programming is Fun
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshRatnaparkhe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dynamicblink-db) 
